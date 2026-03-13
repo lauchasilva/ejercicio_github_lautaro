@@ -1,1 +1,3 @@
 Diálogo NPC: Los cultivos no prosperan. No llueve hace un año ¿Podrías derrotar a Dios?
+
+["¿En serio? Muchas gracias, te pagaré con pan"]
